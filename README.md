@@ -1,2 +1,1 @@
-# pictionnary
-a real-time multiplayer Pictionary game
+A real-time multiplayer Pictionary game
